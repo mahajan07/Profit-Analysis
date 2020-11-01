@@ -1,5 +1,6 @@
 # Profit-Analysis
 [ Economic Value Project ](https://github.com/mahajan07/Profit-Analysis/blob/main/Economic%20Value%20Added%20(1).xlsx)
+[ Profit Analysis Certificate] ()
 * Following tasks to Operate:
 
 ### Task 1: Economic Value Added Overview
@@ -9,6 +10,7 @@
 ### Task 5: Calculating Economic Value Added
 
 [ Financial Statement Project] ()
+[ Financial Statement Certificate] ()
 * Following tasks to Operate:
 
 ### Task 1: Access Google Sheets and Open a template and identify assumptions.
