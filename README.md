@@ -12,6 +12,7 @@
 [ Financial Statement Project] ()
 [ Financial Statement Certificate] ()
 * Following tasks to Operate:
+* Financial statements helps identify the health of SME and where organisations can take risk in their decisions visualizing these statements. 
 
 ### Task 1: Access Google Sheets and Open a template and identify assumptions.
 ### Task 2: Set up Transaction Tab.
