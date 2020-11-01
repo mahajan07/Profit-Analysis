@@ -1,6 +1,6 @@
 # Profit-Analysis
 [ Economic Value Project ](https://github.com/mahajan07/Profit-Analysis/blob/main/Economic%20Value%20Added%20(1).xlsx)
-[ Profit Analysis Certificate] (https://github.com/mahajan07/Profit-Analysis/blob/main/ProfitAnalysis_cert.pdf)
+[ Profit Analysis Certificate](https://github.com/mahajan07/Profit-Analysis/blob/main/ProfitAnalysis_cert.pdf)
 * Following tasks to Operate:
 
 ### Task 1: Economic Value Added Overview
