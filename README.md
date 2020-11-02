@@ -9,8 +9,8 @@
 ### Task 4: Calculating NOPAT
 ### Task 5: Calculating Economic Value Added
 
-[ Financial Statement Project] ()
-[ Financial Statement Certificate] ()
+[ Financial Statement Project]()
+[ Financial Statement Certificate](https://github.com/mahajan07/Profit-Analysis/blob/main/finan_Statement.pdf)
 * Following tasks to Operate:
 * Financial statements helps identify the health of SME and where organisations can take risk in their decisions visualizing these statements. 
 
